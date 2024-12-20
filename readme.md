@@ -21,6 +21,9 @@ Consider the following diagram to understand how the different chains and compon
 
 For a more detailed explanation and a step-by-step guide, refer this other video: [YouTube video tutorial](https://youtu.be/9ccl1_Wu24Q).
 
+https://www.youtube.com/watch?v=YqqRkuizNN4&t=967s
+
+
 For a more detailed explanation and a step-by-step guide, refer to the [YouTube video tutorial](Chat with MySQL Database with Python | LangChain Tutorial).
 
 ## Installation
